@@ -8,3 +8,4 @@ List of Projects/Case Studies
 2. EDA Loan Analysis
 3. Regression Model- Lead Scoring
 4. Titanic: Machine learning from Disaster
+5. Uber Supply Demand Gap Analysis
