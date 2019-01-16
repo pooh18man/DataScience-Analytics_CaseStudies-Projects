@@ -1,4 +1,4 @@
-# DataScience-Analytics_CaseStudies-Projects
+# DataScience/Analytics CaseStudies & Projects
 Hello, This is repository related to Data Science project or Case studies which I have studied so far..I'm Data Science aspirant. 
 You may refer this and add your suggestions to make my model more and more robust.
 
